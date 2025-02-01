@@ -1,7 +1,7 @@
 # Sentiment Analysis on Scraped Text Data
 
 ## Project Overview
-In this project, we scraped content from various articles hosted on the Blackcoffer website using article URLs provided in a link file. After scraping the data, we performed sentiment analysis using a dictionary to calculate key sentiment scores such as **Positive Score**, **Negative Score**, **Polarity Score**, and **Subjectivity Score**. Additionally, we extracted linguistic features like **Word Count**, **Average Sentence Length**, **Average Word Length**, and **Personal Pronouns**. The entire process is performed programmatically using Python.
+In this project, I scraped content from various articles hosted on the Blackcoffer website using article URLs provided in a link file. After scraping the data, performed sentiment analysis using a dictionary to calculate key sentiment scores such as **Positive Score**, **Negative Score**, **Polarity Score**, and **Subjectivity Score**. Additionally, extracted linguistic features like **Word Count**, **Average Sentence Length**, **Average Word Length**, and **Personal Pronouns**. The entire process is performed programmatically using Python.
 
 ## Steps Completed
 
